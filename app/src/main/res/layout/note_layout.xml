@@ -39,6 +39,17 @@
                 android:fontFamily="@font/poppins"
                 android:textColor="@color/pink"/>
 
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/noteDate"
+                android:layout_marginTop="8dp"
+                android:maxHeight="170dp"
+                android:text="Due Date"
+                android:textSize="14sp"
+                android:fontFamily="@font/poppins"
+                android:textColor="@color/gray"/>
+
         </LinearLayout>
     </androidx.cardview.widget.CardView>
 </layout>
