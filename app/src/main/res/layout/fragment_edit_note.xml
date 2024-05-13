@@ -18,7 +18,7 @@
             android:layout_alignParentTop="true"
             android:layout_marginTop="16dp"
             android:fontFamily="@font/poppins"
-            android:text="Edit Note."
+            android:text="Edit Task."
             android:textStyle="bold"
             android:textColor="@color/red"
             android:textSize="24sp" />
